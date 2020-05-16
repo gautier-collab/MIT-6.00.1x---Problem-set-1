@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 s = input('enter s: ')
+
 counter = 0
 iterate = 0
 for i in s:

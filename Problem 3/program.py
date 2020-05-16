@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 29 07:27:30 2019
-
-@author: User
-"""
-
 s = input('enter s: ')
 
 counter = 0
@@ -78,5 +71,3 @@ for i in s:
         counter = 1
     y = x
 print("Longest substring in alphabetical order is: " + final)
-    
-    
