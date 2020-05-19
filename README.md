@@ -16,5 +16,5 @@ That program prints the longest substring of s in which the letters occur in alp
 
 
 
-To execute each of these programs, open the corresponding problem repository in your UNIX terminal and run the following line:
+For each problem solution, open the corresponding problem repository in your UNIX terminal and run the following command:
 sudo docker build -t mit-python-problem-1 . && echo -e "\n\n" && sudo docker run -i -t mit-python-problem-1
