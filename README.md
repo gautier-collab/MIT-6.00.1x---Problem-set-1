@@ -11,5 +11,5 @@ That program prints the number of times the string 'bob' occurs in s. s must be 
 Problem 3:
 That program prints the longest substring of s in which the letters occur in alphabetical order. In the case of ties, it prints the first substring. s must be a string of lower case characters.
 
-For each problem solution, open the corresponding problem repository in your UNIX terminal and run the following command:
+For each problem solution, open the corresponding problem directory in your UNIX terminal and run the following command:
 sudo docker build -t mit-python-problem-1 . && echo -e "\n\n" && sudo docker run -i -t mit-python-problem-1
